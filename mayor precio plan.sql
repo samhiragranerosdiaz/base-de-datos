@@ -1,0 +1,1 @@
+SELECT MAX (precio) FROM plan

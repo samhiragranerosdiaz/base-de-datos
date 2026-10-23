@@ -1,0 +1,2 @@
+SELECT * FROM usuarios
+WHERE id IN (2001, 2004, 2006); 

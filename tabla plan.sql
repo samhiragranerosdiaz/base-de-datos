@@ -1,0 +1,6 @@
+CREATE TABLE plan (
+  id INTEGER PRIMARY KEY,
+  nombre CHARACTER VARYING(15) NOT NULL,
+  precio NUMERIC(15,2) NOT NULL,
+  caracteristicas TEXT
+);

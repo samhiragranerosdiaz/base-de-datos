@@ -1,0 +1,1 @@
+INSERT INTO suscripciones VALUES (1, 2003, 1234, '2021-11-15', '2025-03-12', 'activo');

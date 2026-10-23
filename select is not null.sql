@@ -1,0 +1,2 @@
+SELECT * FROM usuarios
+WHERE id IS NOT NULL;
